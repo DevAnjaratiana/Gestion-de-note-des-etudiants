@@ -1,4 +1,15 @@
-Technologies : React.js, Node.js
+# Application de Gestion des Notes Étudiants
 
-Description : Application full-stack permettant la gestion de notes et des résultats des étudiants, saisie et mise à jour des
-notes.
+Application full-stack de gestion des notes et résultats des étudiants.
+
+## Fonctionnalités
+- Saisie et mise à jour des notes
+- Gestion des résultats par étudiant
+- Interface intuitive et moderne
+
+## Technologies
+- **Frontend** : React.js
+- **Backend** : Node.js
+
+## Auteur
+DevAnjaratiana — 2026
